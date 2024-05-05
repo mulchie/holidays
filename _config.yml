@@ -5,3 +5,4 @@ relative_links:
   collections: true
 include:
   - README.md
+  - 2024_05_01_frankenjura.md
