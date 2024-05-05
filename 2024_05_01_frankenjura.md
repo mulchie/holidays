@@ -2,6 +2,7 @@
 
 Die-hard campers should not be put off by the [Bärenschlucht campsite website](http://www.baerenschlucht-camping.de/).
 Once the daily motorbike noise has died down, the location is idyllic and good climbing rocks are within walking distance.
+The camping site Waldmühle is an alternative and Forelle is delicious.
 
 ## [Jubiläumswand](https://www.thecrag.com/de/klettern/germany/frankenjura/jubilaumswand)
 
@@ -15,7 +16,11 @@ The 5-minute approach to the crag is very entertaining.
 - Naturalis 5
 - Manrefd Schuh Gedenkweg / R1 4+
 
-## ?
+##
+
+## [Treunitzer Wand](https://www.thecrag.com/climbing/germany/frankenjura/treunitzer-wand)
+
+This wall is a little green and not too big. Solid routes.
 
 ## [Glatzenstein](https://www.thecrag.com/de/klettern/germany/frankenjura/glatzenstein)
 
