@@ -2,7 +2,7 @@
 
 Die-hard campers should not be put off by the [Bärenschlucht campsite website](http://www.baerenschlucht-camping.de/).
 Once the daily motorbike noise has died down, the location is idyllic and good climbing rocks are within walking distance.
-The camping site Waldmühle is an alternative and Forelle is delicious.
+The [camping site Waldmühle](https://www.waldmuehle.net/) is an alternative and Forelle is delicious.
 
 ## [Jubiläumswand](https://www.thecrag.com/de/klettern/germany/frankenjura/jubilaumswand)
 
@@ -16,7 +16,16 @@ The 5-minute approach to the crag is very entertaining.
 - Naturalis 5
 - Manrefd Schuh Gedenkweg / R1 4+
 
-##
+## [Rote Wand](https://www.thecrag.com/de/klettern/germany/frankenjura/rote-wand) and [Altbabawand](https://www.thecrag.com/climbing/germany/frankenjura/altbabawand)
+
+- Karl Reinwald Gedenkweg 5+
+- Frühlingsweg / Sommerurlaub 5-
+
+- Didaktische Jahresplanung 5+
+- AV-Kamin 4
+- Kulmbacher Weg 5+
+
+Consider [eating at Schrepfersmühle](http://www.schrepfersmuehle.de/seiten/speisekarte.html) after climbing in Kleinziegenfelder Tal.
 
 ## [Treunitzer Wand](https://www.thecrag.com/climbing/germany/frankenjura/treunitzer-wand)
 
