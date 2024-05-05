@@ -18,12 +18,13 @@ The 5-minute approach to the crag is very entertaining.
 
 ## [Rote Wand](https://www.thecrag.com/de/klettern/germany/frankenjura/rote-wand) and [Altbabawand](https://www.thecrag.com/climbing/germany/frankenjura/altbabawand)
 
-- Karl Reinwald Gedenkweg 5+
-- Frühlingsweg / Sommerurlaub 5-
-
-- Didaktische Jahresplanung 5+
-- AV-Kamin 4
-- Kulmbacher Weg 5+
+- Rote Wand
+  - Karl Reinwald Gedenkweg 5+
+  - Frühlingsweg / Sommerurlaub 5-
+- Altbabawand
+  - Didaktische Jahresplanung 5+
+  - AV-Kamin 4
+  - Kulmbacher Weg 5+
 
 Consider [eating at Schrepfersmühle](http://www.schrepfersmuehle.de/seiten/speisekarte.html) after climbing in Kleinziegenfelder Tal.
 
