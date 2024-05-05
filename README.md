@@ -8,6 +8,7 @@ This is a small collection of past and future holiday experiences to help you pl
 
 ## Ski Touring
 
+- [Ski Touring in Sellrain](./2024_03_02_sellrain.md)
 - [Ski Touring in Langtauferer Tal](./2024_03_23_langtauferer_tal.md)
 
 #### Technical Note on Multiple Github Accounts
