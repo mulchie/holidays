@@ -8,3 +8,7 @@ in the very quiet and remote Langtauferer valley.
 - Hausberg above decommissioned lift Maseben, located a bit to the right (West) of the track towards Tiergartenspitze / Mitterlochspitze
 - Weißseejoch 😮
 - Glockhauser 😊
+
+### Literature
+
+- [Südtirol Band 3 - Vinschgau, Ortler, Cevedale, Sarntaler Alpen, Panico](https://www.panico.de/skitouren-suedtirol-vinschgau-bd3.html)
