@@ -2,9 +2,13 @@
 
 This is a small collection of past and future holiday experiences to help you plan further adventures
 
-## Table of Content
+## Climbing
 
 - [Sport Climbing in the Franconian Jura](./2024_05_01_frankenjura.md)
+
+## Ski Touring
+
+- [Ski Touring in Langtauferer Tal](./2024_03_23_langtauferer_tal.md)
 
 #### Technical Note on Multiple Github Accounts
 
