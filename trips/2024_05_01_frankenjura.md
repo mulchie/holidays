@@ -9,7 +9,7 @@ The [camping site Waldmühle](https://www.waldmuehle.net/) is an alternative and
 The Jubiläumswand is a perfect starting wall for the first days on rock in UIAA difficulty 4 and upwards.
 Park on the country road near a bridge marked by a small transformation house.
 The 5-minute approach to the crag is very entertaining.
-![alt text](assets/2024_05_01_frankenjura_01.png)
+![Sattelite view on parking and access to the route](../assets/2024_05_01_frankenjura_01.png)
 
 - Lurchi 5
 - R1a 4
