@@ -4,15 +4,18 @@ This is a small collection of past and future holiday experiences to help you pl
 
 ## Climb 🧗
 
-- [Sport Climbing in the Franconian Jura](trips/2024_05_01_frankenjura.md)
+- Multi-Pitch Climb at the Blaueishütte
+- Sport Climb Bad Hindelang
+- Multi-Pitch Climb at the Gimpelhaus
+- [Sport Climb in the Franconian Jura](trips/2024_05_01_frankenjura.md)
 
 ## Ski (Tour) ⛷
 
-**Ski Slope Tour**
+**Slope Tour**
 
-- [Oberstdorf]()
-- [Gargellen]()
-- [Damüls]()
+- [Oberstdorf](trips/2022_2023_oberstdorf.md)
+- Gargellen
+- Damüls
 - [Davos](trips/2023_12_17_davos.md)
 
 **Tour**
@@ -23,4 +26,14 @@ This is a small collection of past and future holiday experiences to help you pl
 
 ## Bike 🚲
 
+- Simmental ab Spiez
+
 ## Hike 🥾
+
+- Kals am Großklogner
+- Oberstdorf
+- St. Gallenkirch
+- Matrei
+- Mallnitz
+- Zahmer Kaiser
+- Bad Hindelang
