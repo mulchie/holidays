@@ -4,10 +4,16 @@ This is a small collection of past and future holiday experiences to help you pl
 
 ## Climb 🧗
 
-- Multi-Pitch Climb at the Blaueishütte
-- Sport Climb Bad Hindelang
-- Multi-Pitch Climb at the Gimpelhaus
-- [Sport Climb in the Franconian Jura](trips/2024_05_01_frankenjura.md)
+**Sport**
+
+- Bad Hindelang
+- [Franconian Jura](trips/2024_05_01_frankenjura.md)
+- [Oberammergau](trips/2024_06_20_oberammergau.md)
+
+**Multi-Pitch**
+
+- Blaueishütte
+- [Gimpelhaus](trips/2024_06_23_gimpelhaus.md)
 
 ## Ski (Tour) ⛷
 
