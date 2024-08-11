@@ -9,7 +9,7 @@ This is a small collection of past and future holiday experiences to help you pl
 - Bad Hindelang
 - [Franconian Jura](trips/2024_05_01_frankenjura.md)
 - [Oberammergau](trips/2024_06_20_oberammergau.md)
-- [Battert](trips/2024_08_10_battert.md)
+- [Battert](trips/battert.md)
 
 **Multi-Pitch**
 
