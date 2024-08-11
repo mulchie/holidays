@@ -1,6 +1,6 @@
 # [Battert](https://www.thecrag.com/de/klettern/germany/schwarzwald/area/251539842)
 
-![Overview map battert](assets/battert_osm.png)
+![Overview map battert](../assets/battert_osm.png)
 
 A-numbers in braces indicate sections in Panico Schwarzwald Band Nord.
 
