@@ -44,3 +44,7 @@ This is a small collection of past and future holiday experiences to help you pl
 - Mallnitz
 - Zahmer Kaiser
 - Bad Hindelang
+
+# Technical stuff
+
+- [Top rope outside](technique/top_rope_outside.md)
