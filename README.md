@@ -1,4 +1,4 @@
-# Trips
+# [Trips](https://github.com/mulchie/holidays)
 
 This is a small collection of past and future holiday experiences to help you plan further adventures 😎
 
