@@ -10,6 +10,7 @@ This is a small collection of past and future holiday experiences to help you pl
 - [Franconian Jura](trips/2024_05_01_frankenjura.md)
 - [Oberammergau](trips/2024_06_20_oberammergau.md)
 - [Battert](trips/battert.md)
+- [Arco](trips/2024_09_28_arco.md)
 
 **Multi-Pitch**
 
