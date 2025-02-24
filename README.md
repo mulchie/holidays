@@ -31,6 +31,7 @@ This is a small collection of past and future holiday experiences to help you pl
 - [Heidelberger Hütte](trips/2023_12_26_heidelberger_huette.md)
 - [Sellrain](trips/2024_03_02_sellrain.md)
 - [Langtauferer Tal](trips/2024_03_23_langtauferer_tal.md)
+- [Kühtai](trips/2025_01_20_kuehtai.md)
 
 ## Bike 🚲
 
