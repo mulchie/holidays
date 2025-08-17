@@ -5,10 +5,11 @@ The
 follows the complete coast.
 We cycled parts of it and booked our mini camping accomodations for two small tents on arrival.
 
-1. [Kapelle -> Breezand][route_01] sleeping at [Landwinkel and Minicamping Schorre][sleep_01]
-2. [Breezand -> Oostvoorne][route_02] sleeping at [Minicamping Roos][sleep_02]
-3. [Ooostvoorne -> Ijmuiden][route_03] sleeping at [Camping Schooneberg][sleep_03]
-4. [Ijmuiden -> Van Ewijcksluis][route_04] sleeping at [Camping at Johanna's Bos][sleep_04]
+1. [Kapelle (train station) -> Breezand][route_01] (70km) sleeping at [Landwinkel and Minicamping Schorre][sleep_01]
+2. [Breezand -> Oostvoorne][route_02] (70km) sleeping at [Minicamping Roos][sleep_02]
+3. [Ooostvoorne -> Ijmuiden][route_03] (105km) sleeping at [Camping Schooneberg][sleep_03]
+4. [Ijmuiden -> Van Ewijcksluis][route_04] (80km) sleeping at [Camping at Johanna's Bos][sleep_04]
+5. [Van Ewijcksluis -> Hoogkarspel (train station)][route_05] (50km)
 
 ## Literature
 
@@ -26,3 +27,4 @@ We cycled parts of it and booked our mini camping accomodations for two small te
 [sleep_03]: https://www.campingschoonenberg.nl/de-de/
 [route_04]: https://www.google.com/maps/dir/52.4527359,4.6394339/52.8948586,4.7261089/52.8717574,4.899509/@52.7273576,4.6559777,76665m/data=!3m1!1e3!4m2!4m1!3e1?entry=ttu&g_ep=EgoyMDI1MDgxMy4wIKXMDSoASAFQAw%3D%3D
 [sleep_04]: https://www.johannasbos.nl/mini-camping-johannas-bos
+[route_05]: https://www.google.com/maps/dir/52.8717574,4.899509/52.9313467,5.034894/52.7644351,5.1152316/52.6904967,5.1802989/@52.8261328,4.8954644,42929m/data=!3m1!1e3!4m11!4m10!1m0!1m5!3m4!1m2!1d5.1058345!2d52.8006219!3s0x47c8b1acc33a0fdb:0x6c81882bc9c44ef!1m0!1m0!3e1?entry=ttu&g_ep=EgoyMDI1MDgxMy4wIKXMDSoASAFQAw%3D%3D
