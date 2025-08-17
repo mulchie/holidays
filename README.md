@@ -35,7 +35,7 @@ This is a small collection of past and future holiday experiences to help you pl
 
 ## Bike 🚲
 
-**One day**
+**One Day**
 
 - Simmental ab Spiez
 
