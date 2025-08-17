@@ -35,7 +35,13 @@ This is a small collection of past and future holiday experiences to help you pl
 
 ## Bike 🚲
 
+**One day**
+
 - Simmental ab Spiez
+
+**Bikepacking with Tent**
+
+- [The Netherlands Coastal Route](trips/2025_08_11_netherlands_costal.md)
 
 ## Hike 🥾
 
