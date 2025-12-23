@@ -48,11 +48,21 @@ This is a small collection of past and future holiday experiences to help you pl
 
 - Kals am Großklogner
 - Oberstdorf
+  - Waltenberger Haus
+  - Edmund-Probst-Haus
+  - Rappenseehütte
+  - Mindelheimer Hütte
 - St. Gallenkirch
 - Matrei
 - Mallnitz
 - Zahmer Kaiser
+  - Vorderkaiserfeldenhütte
+  - Stripsenjochütte
+  - Anton-Karg-Haus (Hinterbärenbad)
+- Kitzbühler Alpen
+  - ?
 - Bad Hindelang
+- Gargellen
 
 # Technical stuff
 
