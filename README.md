@@ -16,6 +16,7 @@ This is a small collection of past and future holiday experiences to help you pl
 
 - [Blaueishütte](trips/2021_00_00_blaueishuette.md)
 - [Gimpelhaus](trips/2024_06_23_gimpelhaus.md)
+- [Donautal](trips/2025_09_20_donautal.md)
 
 ## Ski (Tour) ⛷
 
