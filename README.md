@@ -60,7 +60,10 @@ This is a small collection of past and future holiday experiences to help you pl
   - Stripsenjochütte
   - Anton-Karg-Haus (Hinterbärenbad)
 - Kitzbühler Alpen
-  - ?
+  - Wildseeloder-Haus
+  - Bochumer Hütte
+  - Bürglhütte
+  - Pinzgauer Hütte
 - Bad Hindelang
 - Gargellen
 
