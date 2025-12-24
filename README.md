@@ -1,6 +1,8 @@
-# [Trips](https://github.com/mulchie/holidays)
+# [Trips](https://github.com/mulchie/holidays)[^1]
 
-This is a small collection of past and future holiday experiences to help you plan further adventures 😎
+This is a small collection of past and future holiday experiences to help you plan further adventures 😎 [^1]
+
+[^1]: This is my footnote
 
 ## Climb 🧗
 
