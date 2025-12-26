@@ -7,7 +7,7 @@ A-numbers in braces indicate sections in Panico Schwarzwald Band Nord.
 ## Hängende Wand (A5)
 
 - Nudeltunker [^2]
-- Linker Talausstieg [^2] [^3]
+- Linker Talausstieg [^2] [^4]
 - Zeltplatzkante [^2]
 - Rechter Einstieg [^2]
   - Can't recommend this route
@@ -27,7 +27,7 @@ A-numbers in braces indicate sections in Panico Schwarzwald Band Nord.
 
 ## Frühstückswand (A10)
 
-- Alte Frühstückswand [^4]
+- Alte Frühstückswand [^3]
   - New 80m single rope reaches exactly.
 
 ## Falkenwand (A11)
@@ -37,12 +37,12 @@ Requires at least new 80m single rope.
 - Proloriss (Top rope) [^1]
   - Requires two 120cm slings, four 120cm slings of you want to have redundancy in terms of slings. There is only one fix point in about 240cm dinstance from the edge.
 - Hallweg [^2]
-- Freundschaft [^3]
+- Freundschaft [^4]
 - Bockgrat [^2]
 
 ## Blockgrat (A12)
 
-- Blockgrat [^2] [^3]
+- Blockgrat [^2] [^4]
   - Straddle step staring from first belay station.
 
 ## Bismarckmassiv (A17)
@@ -64,5 +64,5 @@ Requires at least new 80m single rope.
 
 [^1]: 2024-08-10
 [^2]: 2025
-[^3]: 2025-12-26 BK
-[^4]: 2025-05-12 DR
+[^3]: 2025-05-12 DR
+[^4]: 2025-12-26 BK
