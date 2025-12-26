@@ -1,15 +1,13 @@
-# [Trips](https://github.com/mulchie/holidays)[^1]
+# [Trips](https://github.com/mulchie/holidays)
 
-This is a small collection of past and future holiday experiences to help you plan further adventures 😎 [^1]
-
-[^1]: This is my footnote
+This is a small collection of past and future holiday experiences to help you plan further adventures 😎
 
 ## Climb 🧗
 
 **Sport**
 
 - Bad Hindelang
-- [Franconian Jura](trips/frankenjura.md) (2024-05-01)
+- [Franconian Jura](trips/frankenjura.md)
 - [Oberammergau](trips/oberammergau.md) (2024-06-20)
 - [Battert](trips/battert.md)
 - [Arco](trips/arco.md) (2024-09-28)

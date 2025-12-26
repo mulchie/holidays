@@ -1,4 +1,4 @@
-# Sport Climbing in the Franconian Jura
+# [Sport Climbing in the Franconian Jura][^1]
 
 Die-hard campers should not be put off by the [Bärenschlucht campsite website](http://www.baerenschlucht-camping.de/).
 Once the daily motorbike noise has died down, the location is idyllic and good climbing rocks are within walking distance.
@@ -42,3 +42,5 @@ less experienced climbers may be well advised to try out the top rope first by h
 - Weißenbacher Backers 6-
 - Purtscheller Gedenkweg 6-
 - Weißenbacher Weg 6+
+
+[^1]: 2024-05-01
