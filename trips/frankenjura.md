@@ -1,4 +1,4 @@
-# [Sport Climbing in the Franconian Jura][^1]
+# Sport Climbing in the Franconian Jura[^1]
 
 Die-hard campers should not be put off by the [Bärenschlucht campsite website](http://www.baerenschlucht-camping.de/).
 Once the daily motorbike noise has died down, the location is idyllic and good climbing rocks are within walking distance.
