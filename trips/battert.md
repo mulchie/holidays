@@ -4,25 +4,25 @@
 
 A-numbers in braces indicate sections in Panico Schwarzwald Band Nord.
 
-## 2024_08_10
-
-### Hohe Wand (A8)
+## Hohe Wand (A8)
 
 - Handfegerverschneidung (Lead)
 - Handfegerverschneidung-Kombination Steinlaus (Lead)
 
-### Falkenwand (A11-1)
+## Falkenwand (A11-1)
 
-- Proloriss (Top rope)
+- Proloriss (Top rope) [^1]
   - Requires two 120cm slings, four 120cm slings of you want to have redundancy in terms of slings. There is only one fix point in about 240cm dinstance from the edge.
 
-### Predigtstuhl-Vorgipfel (A7)
+## Predigtstuhl-Vorgipfel (A7)
 
-- The south side is a nice slab playground and installation of top rope is straight forward when approached from the noth-east. (Top rope)
+- The south side is a nice slab playground and installation of top rope is straight forward when approached from the noth-east. (Top rope) [^1]
 
-### Schöne Wand (A6)
+## Schöne Wand (A6)
 
-- Mixed Schönes Wandel, Luzifers Traum, Birkenplatte (Top rope)
+- Mixed Schönes Wandel, Luzifers Traum, Birkenplatte (Top rope) [^1]
+
+---
 
 ## First time Batter: A beginners guide
 
@@ -35,12 +35,4 @@ A-numbers in braces indicate sections in Panico Schwarzwald Band Nord.
    - Graue Wand
    - Hät net solle
 
-## Next time proposals
-
-- Hängende Wand (A5)
-  - Nudeltunker
-- Predigtstuhl Hauptgipfel
-- Fermeda West- und Südeseite (A16)
-  - Eidechsenriss
-- Falkenwand Hauptwand rechts
-  - Hallweg (Multi-pitch)
+[^1]: 2024-08-10
