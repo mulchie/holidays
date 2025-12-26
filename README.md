@@ -8,13 +8,13 @@ This is a small collection of past and future holiday experiences to help you pl
 
 - Bad Hindelang
 - [Franconian Jura](trips/frankenjura.md)
-- [Oberammergau](trips/oberammergau.md) (2024-06-20)
+- [Oberammergau](trips/oberammergau.md)
 - [Battert](trips/battert.md)
-- [Arco](trips/arco.md) (2024-09-28)
+- [Arco](trips/arco.md)
 
 **Multi-Pitch**
 
-- [Blaueishütte](trips/blaueishuette.md) (2021)
+- [Blaueishütte](trips/blaueishuette.md)
 - [Gimpelhaus](trips/gimpelhaus.md) (2024-06-23)
 - [Donautal](trips/donautal.md) (2025-09-20)
 
