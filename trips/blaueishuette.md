@@ -7,7 +7,7 @@
 ## Schärtenspitze
 
 - [Durch's Fenster zum Zwerg](https://www.thecrag.com/de/klettern/germany/oberbayern/route/3886269765) [^1]
-- [Nordostwand][https://www.thecrag.com/de/klettern/germany/route/1412718381]
+- [Nordostwand](https://www.thecrag.com/de/klettern/germany/route/1412718381)
   with [topo](https://www.blaueishuette.de/files/Downloads/Klettertouren/Schaertenspitze/Schaertenspitz_-_Nordost.pdf) [^2]
 - [Logic Line](https://www.thecrag.com/de/klettern/germany/route/1412716650)
   with [topo](https://www.blaueishuette.de/files/Downloads/Klettertouren/Schaertenspitze/Logig_Line.pdf) [^2]
