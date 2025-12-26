@@ -1,4 +1,4 @@
-# Simple Sport Climbing Oberammergau
+# Simple Sport Climbing Oberammergau [^1]
 
 ## Marxersteig
 
@@ -14,3 +14,5 @@ Approaching not as easy as expected.
 ## [Zwergenwand](https://www.thecrag.com/climbing/germany/oberbayern/area/766614516)
 
 Difficult approach from south (Ropes needed for kids)
+
+[^1]: 2024-06-20

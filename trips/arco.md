@@ -1,4 +1,4 @@
-# Sport Climbing Arco (Lake Garda)
+# Sport Climbing Arco (Lake Garda) [^1]
 
 ## [Muro Dell'Asino](https://www.thecrag.com/de/klettern/italy/arco/muro-dell-asino)
 
@@ -51,3 +51,5 @@ This will reduce the number of people in dangerous situations on the road.
   - Gaudi 6a
   - Il Vento Nei Capelli Neri 5c
   - Due Sfere (A0 at crux with long quickdraw) 6c
+
+[^1]: 2024-09-28
