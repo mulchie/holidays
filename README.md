@@ -15,24 +15,24 @@ This is a small collection of past and future holiday experiences to help you pl
 **Multi-Pitch**
 
 - [Blaueishütte](trips/blaueishuette.md)
-- [Gimpelhaus](trips/gimpelhaus.md) (2024-06-23)
-- [Donautal](trips/donautal.md) (2025-09-20)
+- [Gimpelhaus](trips/gimpelhaus.md)
+- [Donautal](trips/donautal.md)
 
 ## Ski (Tour) ⛷
 
 **Slope Tour**
 
-- [Oberstdorf](trips/oberstdorf.md) (2022/2023)
+- [Oberstdorf](trips/oberstdorf.md)
 - Gargellen
 - Damüls
-- [Davos](trips/davos.md) (2023-12-17)
+- [Davos](trips/davos.md)
 
 **Tour**
 
-- [Heidelberger Hütte](trips/heidelberger_huette.md) (2023-12-26)
-- [Sellrain](trips/sellrain.md) (2024-03-02)
-- [Langtauferer Tal](trips/langtauferer_tal.md) (2024-03-23)
-- [Kühtai](trips/kuehtai.md) (2025-01-20)
+- [Heidelberger Hütte](trips/heidelberger_huette.md)
+- [Sellrain](trips/sellrain.md)
+- [Langtauferer Tal](trips/langtauferer_tal.md)
+- [Kühtai](trips/kuehtai.md)
 
 ## Bike 🚲
 
@@ -42,7 +42,7 @@ This is a small collection of past and future holiday experiences to help you pl
 
 **Bikepacking with Tent**
 
-- [The Netherlands Coastal Route](trips/netherlands_costal.md) (2025-08-11)
+- [The Netherlands Coastal Route](trips/netherlands_costal.md)
 
 ## Hike 🥾
 

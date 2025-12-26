@@ -1,4 +1,4 @@
-# Multi-Pitch Climbing at Donautal
+# Multi-Pitch Climbing at Donautal [^1]
 
 ## Schaufels
 
@@ -23,3 +23,5 @@ Two technical remarks:
 
 [down]: https://www.hikr.org/gallery/photo1532431.html?post_id=84651#1
 [alt_topo]: http://rocktopo.de/index.php/de/topos-de/21-topos-germany/schwaebische-alb/donautal/63-schaufels
+
+[^1]: 2025-09-20

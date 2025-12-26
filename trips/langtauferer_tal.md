@@ -4,11 +4,13 @@ For a wonderful stay with delicious food and a sauna experience in a family-run 
 we recommend the [Langtaufererhof](https://www.langtaufererhof.it/)
 in the very quiet and remote Langtauferer valley.
 
-- Towards Mittereggspitze from Perwang, stopped at Ochsenberg Alm
-- Hausberg above decommissioned lift Maseben, located a bit to the right (West) of the track towards Tiergartenspitze / Mitterlochspitze
-- Weißseejoch 😮
-- Glockhauser 😊
+- Towards Mittereggspitze from Perwang, stopped at Ochsenberg Alm [^1]
+- Hausberg above decommissioned lift Maseben, located a bit to the right (West) of the track towards Tiergartenspitze / Mitterlochspitze [^1]
+- Weißseejoch 😮 [^1]
+- Glockhauser 😊 [^1]
 
 ### Literature
 
 - [Südtirol Band 3 - Vinschgau, Ortler, Cevedale, Sarntaler Alpen, Panico](https://www.panico.de/skitouren-suedtirol-vinschgau-bd3.html)
+
+[^1]: 2024-03-23
