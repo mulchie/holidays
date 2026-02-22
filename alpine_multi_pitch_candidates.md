@@ -1,8 +1,8 @@
 # Alpine Multi Pitch Candidates
 
-Which alpine destinations (preferably huts with catering) are there
-for multi-pitch and sport climbing and
-reachable within 5 hours car drive from area Karlsruhe / Stuttgart?
+Which Alpine destinations (preferably mountain huts with catering)
+that offer multi-pitch and sport climbing
+are reachable within a 5-hour drive from the Karlsruhe / Stuttgart area?
 
 ## Tannheimer Tal
 
