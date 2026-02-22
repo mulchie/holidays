@@ -45,4 +45,5 @@ reachable within 5 hours car drive from area Karlsruhe / Stuttgart?
 [tannheimer_huette]: https://www.dav-kempten.de/huetten/tannheimer-huette
 [tannheimer_booking]: https://www.hut-reservation.org/reservation/book-hut/676/wizard
 [muttekopf_booking]: https://www.hut-reservation.org/reservation/book-hut/160/wizard
+[steinsee_booking]: https://www.hut-reservation.org/reservation/book-hut/497/wizard
 [hermann_barth_booking]: https://www.hut-reservation.org/reservation/book-hut/727/wizard
