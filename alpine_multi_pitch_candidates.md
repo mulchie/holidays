@@ -12,7 +12,8 @@ reachable within 5 hours car drive from area Karlsruhe / Stuttgart?
 ### Huts
 
 - [Gimpelhaus][gimpelhaus]
-  - [Booking per mail][gimpelhaus_booking]
+  - [Booking via mail][gimpelhaus_booking]
+  - [the crag]()
 - [Tannheimer Hütte][tannheimer_huette]
   - [Booking online][tannheimer_booking]
 
@@ -36,13 +37,22 @@ reachable within 5 hours car drive from area Karlsruhe / Stuttgart?
 ## Wilder Kaiser
 
 - [4-4.5 hours drive][maps_ka_gaudeamus]
+- topo
+  - [list](https://www.panico.de/media/wysiwyg/PDF/Leseproben/leseprobe-wilder-kaiser-topo-guide-book-alpinklettern.pdf)
+  - [stadler](https://www.stadler-markus.de/alpinklettern/wilder-kaiser/kletterrouten.html)
 
 ### Huts
 
-- Stripsenjochhaus
+- Stripsenjochhaus (1600m)
+  - [Booking online](https://www.hut-reservation.org/reservation/book-hut/184/wizard)
   - [the crag](https://www.thecrag.com/climbing/austria/area/12499105/maps#47.57509,12.31048,16.0,,auto)
-- Gaudeamushütte
+- Hans Berger Haus (930m)
+  - [Booking via mail](https://www.hansbergerhaus.at/anfrage-naechtigung/)
+- Gaudeamushütte (1260m)
+  - [Booking online](https://www.hut-reservation.org/reservation/book-hut/100/wizard)
   - [the crag](https://www.thecrag.com/climbing/austria/area/11879953/maps#47.55285,12.32157,16.0,,auto)
+- Anton-Karg-Haus (830m)
+  - [Booking online](https://www.hut-reservation.org/reservation/book-hut/172/wizard)
 
 ---
 
