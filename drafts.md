@@ -52,7 +52,7 @@
   - Bergheim Fotsch nicht auffindbar
   - Sellrain, siehe lokale Gasthäuser
 
-### Östlich des Ötztales
+### Östlich des Ötztales (Abwandlung der Sellrainer Hüttenrunde nach Hüttenauswahl)
 
 Route
 
