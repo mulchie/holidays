@@ -6,6 +6,7 @@
 
 - [Anfahrt ca. 4 Stunden][maps_ka_imst]
 - [Buchung online][steinsee_booking]
+- Saison beginnt ab Ende Mai / Anfang Juni
 - [the crag](https://www.thecrag.com/climbing/austria/lechtaler-alpen/maps#47.22879,10.58528,15.0,,auto)
 - [Kletterführer gekauft](https://www.panico.de/alpinkletterfuehrer-lechtaler-alpen.html)
 
@@ -13,6 +14,7 @@
 
 - [Anfahrt ca. 4 Stunden][maps_ka_imst]
 - [Buchung online][muttekopf_booking]
+- Saison beginnt ab Ende Mai / Anfang Juni
 - [the crag](https://www.thecrag.com/climbing/austria/lechtaler-alpen/area/551716932/maps#47.26656,10.66300,14.0,,auto)
 - [Kletterführer gekauft](https://www.panico.de/alpinkletterfuehrer-lechtaler-alpen.html)
 
@@ -21,6 +23,7 @@
 - Anfahrt ca. 4 Stunden
 - keine Duschen, nur kaltes Wasser, gute Verfügbarkeit
 - [Buchung online][hermann_barth_booking]
+- Saison beginnt ab Ende Mai / Anfang Juni
 - [the crag](https://www.thecrag.com/climbing/austria/area/792749637/maps#47.30755,10.39101,14.0,,auto)
 - [Kletterführer gekauft](https://www.panico.de/alpinkletterfuehrer-lechtaler-alpen.html)
 
