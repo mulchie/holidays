@@ -4,6 +4,17 @@ Which Alpine destinations (preferably mountain huts with catering)
 that offer multi-pitch and sport climbing
 are reachable within a 5-hour drive from the Karlsruhe / Stuttgart area?
 
+## Oberstdorf
+
+- 3 hours drive
+
+### Huts
+
+- Prinz-Luitpold-Haus
+  - [Booking online](https://www.hut-reservation.org/reservation/book-hut/270/wizard?lang=de_de)
+- Mindelheimer-Hütte
+  - [Booking custom online](https://www.mindelheimer-huette.de/reservierung)
+
 ## Tannheimer Tal
 
 - [3.5 hours drive][maps_ka_tannheimer_tal]
@@ -16,6 +27,8 @@ are reachable within a 5-hour drive from the Karlsruhe / Stuttgart area?
   - [the crag]()
 - [Tannheimer Hütte][tannheimer_huette]
   - [Booking online][tannheimer_booking]
+- Bad Kissinger Hütte
+  - [Booking online](https://www.hut-reservation.org/reservation/book-hut/174/wizard)
 
 ## Lechtaler Alpen
 
